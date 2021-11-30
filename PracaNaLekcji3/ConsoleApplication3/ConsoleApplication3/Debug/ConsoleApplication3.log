@@ -1,0 +1,7 @@
+﻿  sortowanie.cpp
+C:\Users\jhurnowicz\source\repos\ConsoleApplication3\ConsoleApplication3\sortowanie.cpp(8,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\jhurnowicz\source\repos\ConsoleApplication3\ConsoleApplication3\sortowanie.cpp(15,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\jhurnowicz\source\repos\ConsoleApplication3\ConsoleApplication3\sortowanie.cpp(23,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\jhurnowicz\source\repos\ConsoleApplication3\ConsoleApplication3\sortowanie.cpp(25,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\jhurnowicz\source\repos\ConsoleApplication3\ConsoleApplication3\sortowanie.cpp(43,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication3.vcxproj -> C:\Users\jhurnowicz\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe

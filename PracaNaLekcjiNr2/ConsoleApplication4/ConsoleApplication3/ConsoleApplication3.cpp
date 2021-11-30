@@ -40,7 +40,7 @@ int main()
             break;
         case '5':
             for (int i = 0; i < 26; i++){
-                cout << b.cofnij(i, wiadomosc) << "\n";
+                cout << b.cof_skracanie(i, wiadomosc) << "\n";
             }
             break;
         case '4':
