@@ -1,0 +1,5 @@
+﻿  sortowanie.cpp
+C:\Users\jhurnowicz\source\repos\sort\sort\sortowanie.cpp(8,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\jhurnowicz\source\repos\sort\sort\sortowanie.cpp(16,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\jhurnowicz\source\repos\sort\sort\sortowanie.cpp(93,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  sort.vcxproj -> C:\Users\jhurnowicz\source\repos\sort\x64\Debug\sort.exe
